@@ -21,7 +21,7 @@ const vimal = {
   tools: ["VS Code", "Figma", "n8n", "Netlify", "Canva"],
   funFact: "I make memes & automate YouTube using bots 🎬"
 };
-```
+
 
 ---
 
