@@ -1,6 +1,10 @@
-<!-- Animated Welcome Banner -->
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Vimal+Pravin;Web+Developer+%7C+AI+Enthusiast;Future+Zoho+Engineer!;Welcome+to+My+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Vimal+Pravin+👋;Full+Stack+Developer+in+Progress+💻;Tech+Explorer+%7C+Zoho+Dreamer+💼;Automating+YouTube+%7C+Building+Web+Apps+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ff9ff&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Profile!&fontSize=40&fontAlignY=35&desc=Creating%20Projects%20Every%20Week%20%F0%9F%9A%80&descAlignY=60&descAlign=62" />
 </p>
 
 ---
@@ -9,57 +13,93 @@
 
 ```js
 const vimal = {
-  role: "2nd Year IT Engineering Student",
-  dream: "Get placed in Zoho 💼",
-  skills: ["Web Dev", "Java", "AI", "Firebase"],
-  tools: ["VS Code", "Canva", "n8n", "Figma"],
-  learning: ["React", "Java", "Voice AI Bots"],
-  funFact: "I create tech memes & automate YouTube!"
-}
+  name: "Vimal Pravin",
+  education: "2nd Year IT Engineering Student",
+  goal: "To get placed in Zoho 💼",
+  projects: ["OTP Auth App", "Coffee Shop Website", "AI YouTube Bot"],
+  skills: ["React", "JavaScript", "Firebase", "Node.js"],
+  tools: ["VS Code", "Figma", "n8n", "Netlify", "Canva"],
+  funFact: "I make memes & automate YouTube using bots 🎬"
+};
+---
 
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://vimalpravin.github.io" target="_blank"><img src="https://img.shields.io/badge/My Portfolio-0f9d58?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://in.linkedin.com/in/vimal-pravin-v" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vimalpravincontact@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+</p>
+
+---
+
+### 🚀 Highlight Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🔐 **OTP Auth App** | Secure mobile OTP login | React, Firebase, Twilio |
+| ☕ **Coffee Shop Site** | Shopping cart website | HTML, CSS, JS, Firebase |
+| 🎬 **Movie Bot** | Movie recommendation system | Python, Pandas |
+| 🤖 **YouTube Automation** | AI bot for content creation | Puppeteer, n8n, TTS |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vimalpravin&theme=radical&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vimalpravin&theme=gruvbox&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vimalpravin&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalpravin&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vimalpravin&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalpravin&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalpravin&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vimalpravin&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 💻 Tools I Use
-<p align="center">
-  <img src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
-  <img src="https://img.icons8.com/color/48/adobe-xd.png" alt="Adobe XD"/>
-  <img src="https://img.icons8.com/color/48/canva.png" alt="Canva"/>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
-  <img src="https://img.icons8.com/material-rounded/48/netlify.png" alt="Netlify"/>
-  <img src="https://img.icons8.com/ios-filled/50/notion.png" alt="Notion"/>
-</p>
+### 🐍 Contribution Snake
 
----
-<p align="center"> <a href="https://in.linkedin.com/in/vimal-pravin-v"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a> <a href="https://vimalpravin.github.io"><img src="https://img.shields.io/badge/-Portfolio-purple?style=for-the-badge&logo=internetexplorer&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> </p>
-
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/> </p>
-
-### 🧩 Fun Fact
-
-- 📌 I post memes and edit videos every week for fun 🎬  
-- 💥 I’m building AI agents to automate content creation!
+![snake gif](https://github.com/vimalpravin/vimalpravin/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-<h3 align="center">✨ Let's Connect and Build Something Amazing!</h3>
+### 👁️ Visitor Counter
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749602-409a7125-91d9-4f4c-a9c8-fdc86394a7f4.gif" height="100"/>
+  <img src="https://komarev.com/ghpvc/?username=vimalpravin&style=for-the-badge&color=0ff9ff" />
 </p>
+
+---
+
+### 🎯 Current Goals
+
+- 🎯 Build more full-stack projects  
+- 💼 Get placed at Zoho  
+- 🧠 Learn AI + automation tools  
+- 🤝 Collaborate on GitHub with others
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ff9ff&height=150&section=footer"/>
+</p>
+
