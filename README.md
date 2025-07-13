@@ -1,45 +1,22 @@
-<!-- Welcome Banner -->
-<h1 align="center">👋 Welcome to my Profile!</h1>
+<!-- Animated Welcome Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I+am+Vimal+Pravin;IT+Student+and+Web+Developer;Dreaming+of+Zoho;Creating+Projects+Everyday!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Vimal+Pravin;Web+Developer+%7C+AI+Enthusiast;Future+Zoho+Engineer!;Welcome+to+My+GitHub+Profile!" />
 </p>
 
 ---
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://vimalpravin.github.io"><img src="https://img.shields.io/badge/My Portfolio-blue?style=for-the-badge" /></a>
-  <a href="https://in.linkedin.com/in/vimal-pravin-v"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+### 🙋‍♂️ About Me
 
----
+```js
+const vimal = {
+  role: "2nd Year IT Engineering Student",
+  dream: "Get placed in Zoho 💼",
+  skills: ["Web Dev", "Java", "AI", "Firebase"],
+  tools: ["VS Code", "Canva", "n8n", "Figma"],
+  learning: ["React", "Java", "Voice AI Bots"],
+  funFact: "I create tech memes & automate YouTube!"
+}
 
-<!-- Tech Logos Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/>
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 2nd Year IT Engineering Student  
-- 🏢 Dream: Get placed at **Zoho**  
-- 💻 Currently working on:
-  - OTP Auth App 🔐
-  - Coffee Shop Website ☕
-  - Movie Recommendation System 🎬  
-- 🧠 Exploring AI & automation using **n8n**  
-- 🎨 Building digital products with **Canva, KDP, Gumroad**
 
 ---
 
@@ -71,6 +48,9 @@
 </p>
 
 ---
+<p align="center"> <a href="https://in.linkedin.com/in/vimal-pravin-v"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a> <a href="https://vimalpravin.github.io"><img src="https://img.shields.io/badge/-Portfolio-purple?style=for-the-badge&logo=internetexplorer&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> </p>
+
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/> </p>
 
 ### 🧩 Fun Fact
 
